@@ -1,5 +1,5 @@
 # cricket_t20  
-
+Live Dashboard: [cricket_t20](https://www.novypro.com/project/cricket-t20-world-cup-)
 Project Steps:  
 1. 🌐 Requirement Scoping  
 2. 📊 Data Collection via Web Scraping from ESPN Cricinfo  
